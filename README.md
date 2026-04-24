@@ -41,6 +41,9 @@ Implementare sensori attivi capaci di interagire in tempo reale con l'ambiente (
 Utilizzo di grafo Blueprint per controllo action-driven e di componenti.
 
 ### 📂 Struttura del Progetto
+
 **/Config:** *File di configurazione auto-generati da UnReal Engine*
+
 **/Content:** *Tutti i vari files, blueprint, materials, textures, vehicles, road-spline, road-segment*
+
 **Altre Cartelle:** *File di Cache di UnReal Engine*
