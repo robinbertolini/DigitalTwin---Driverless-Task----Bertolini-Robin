@@ -1,4 +1,4 @@
-# 🏎️ Formula Student Driverless Simulation - E-Agle Task
+# 🏎️ Formula Student Driverless Simulation - Eagle Task
 
 Questo repository contiene lo sviluppo di un simulatore per un veicolo a guida autonoma realizzato in **Unreal Engine 5.7**. Il progetto si focalizza sulla creazione di un ambiente dinamico, sulla fisica accurata del veicolo e sulla simulazione della percezione sensoriale tramite LiDAR e Camera.
 
